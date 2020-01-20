@@ -9,3 +9,9 @@
 Interface 1 - 
 Recollect items to be purchased after going to market
 (Flow - Memory1.java (i.e. home) ----> spacial navigation interface -----> Memory12.java (i.e. market))
+
+**Neha**
+
+Interface 1 - 
+Registration activity  (files: activity_info.xml , InfoActivity.java)
+(Flow: Shown at startup of game)
