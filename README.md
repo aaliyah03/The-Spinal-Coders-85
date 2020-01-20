@@ -30,3 +30,6 @@ The ^ java code keeps a wrong count and right count, so for more number of peopl
 
 -( Flow : MainActivity.java --> identification.java )
 -SCORING SYSTEM : No of people that have been correctly identified, the cnt will be sent as the final data parameter.
+
+**Atmaja**
+Interface: River-fish game
