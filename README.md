@@ -10,6 +10,10 @@ Interface 1 -
 Recollect items to be purchased after going to market
 (Flow - Memory1.java (i.e. home) ----> spacial navigation interface -----> Memory12.java (i.e. market))
 
+Interface 2 -
+To gain coins for market purchase, play random game of object associativity.
+(Flow: Home ----> ObjectAssociativity.java)
+
 **Neha**
 
 Interface 1 - 
