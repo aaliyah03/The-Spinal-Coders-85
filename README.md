@@ -10,12 +10,19 @@ Interface 1 -
 Recollect items to be purchased after going to market
 (Flow - Memory1.java (i.e. home) ----> spacial navigation interface -----> Memory12.java (i.e. market))
 
-Interface 2 -
-To gain coins for market purchase, play random game of object associativity.
-(Flow: Home ----> ObjectAssociativity.java)
-
 **Neha**
 
 Interface 1 - 
 Registration activity  (files: activity_info.xml , InfoActivity.java)
 (Flow: Shown at startup of game)
+
+
+**Radha**
+-Interface : Person Identification
+
+-MainActivity.java + activity_main.xml : Introduces the person to be idenified
+identification.java + activity_identification : Asks the user to identify
+The ^ java code keeps a wrong count and right count, so for more number of people the counter will get updated.
+
+-( Flow : MainActivity.java --> identification.java )
+-SCORING SYSTEM : No of people that have been correctly identified, the cnt will be sent as the final data parameter.
