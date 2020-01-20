@@ -16,6 +16,10 @@ Interface 1 -
 Registration activity  (files: activity_info.xml , InfoActivity.java)
 (Flow: Shown at startup of game)
 
+Interface 2 -
+Spatial Activity (files :activity_spatial.xml , SpatialActivity.java)
+(Flow :after memory 1)
+
 
 **Radha**
 -Interface : Person Identification
