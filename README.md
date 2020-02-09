@@ -33,3 +33,4 @@ The ^ java code keeps a wrong count and right count, so for more number of peopl
 
 **Atmaja**
 Interface: River-fish game
+sih.R: R code for the visualizations uploaded
